@@ -20,13 +20,13 @@ Class material for Special topics in particle physics class at Yachay 2024 1st s
 
 ## Recommended Books
 
-Claus Grupen: Astroparticle Physics (second edition - 2020) 
+- Claus Grupen: Astroparticle Physics (second edition - 2020) 
 
-Griffiths, David J. Introduction to Elementary Particles
-Krane, Kenneth. Introductory Nuclear Physics
-Arnab Rai Choudhuri: Astrophysics for physicists
-Robert Resnick: Introduction to Special Relativity
-Carroll, Bradley W., and Dale A. Ostlie. An Introduction to Modern Astrophysics
+- Griffiths, David J. Introduction to Elementary Particles
+- Krane, Kenneth. Introductory Nuclear Physics
+- Arnab Rai Choudhuri: Astrophysics for physicists
+- Robert Resnick: Introduction to Special Relativity
+- Carroll, Bradley W., and Dale A. Ostlie. An Introduction to Modern Astrophysics
 
 ## Lecture notes
 
